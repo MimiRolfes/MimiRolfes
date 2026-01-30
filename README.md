@@ -43,7 +43,7 @@ Currently learning and experimenting with modern tools, frameworks, and 3D workf
 
 ## 📫 Get in Touch  
 - 📧 Email: *milena.rolfes@web.de*  
-- 📸 Instagram: **x.aka.mimx**  
+- 📸 Instagram: **x.aka.mimix**  
 
 
 ---
