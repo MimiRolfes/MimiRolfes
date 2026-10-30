@@ -28,7 +28,7 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🧩 Web applications
+#### 🧩 Web applications
 
 Full-stack, TypeScript throughout. Authentication, roles, schema, API, offline behaviour, deployment.
 
@@ -37,7 +37,7 @@ Including the parts nobody demos: versioned migrations, validation at the bounda
 </td>
 <td width="33%" valign="top">
 
-### 🪄 Framer websites
+#### 🪄 Framer websites
 
 Finished Framer sites, handed over ready to use — including one for an architecture company.
 
@@ -46,7 +46,7 @@ You get a site you can edit yourself afterwards, not a dependency on whoever bui
 </td>
 <td width="33%" valign="top">
 
-### 🎯 Design to code
+#### 🎯 Design to code
 
 Figma as the source of truth, implemented faithfully.
 
@@ -102,14 +102,14 @@ Component states, responsive behaviour, motion, and accessibility treated as par
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Design is the reference
+#### 🎨 Design is the reference
 
 If a design exists, it decides. I measure against it instead of approximating it — and I ask for the file rather than inventing layout.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔒 Security belongs on the server
+#### 🔒 Security belongs on the server
 
 Permissions and validation are enforced server-side. An interface that merely hides a button has not protected anything.
 
@@ -118,14 +118,14 @@ Permissions and validation are enforced server-side. An interface that merely hi
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 No privacy theatre
+#### 🧾 No privacy theatre
 
 I build privacy-conscious systems and name plainly what still needs legal or security review. Nothing I hand over is "certified".
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Tested where it matters
+#### 🧪 Tested where it matters
 
 Permissions, sync logic and anything irreversible get tests. A one-line helper does not.
 
