@@ -7,7 +7,6 @@
 <a href="https://milenarolfes.framer.website"><img alt="Portfolio ansehen" src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=framer&logoColor=white"></a>
 <a href="mailto:milena.rolfes@web.de"><img alt="E-Mail schreiben" src="https://img.shields.io/badge/E--Mail-1F2937?style=flat-square&logo=maildotru&logoColor=white"></a>
 <img alt="Verfügbar für Projekte" src="https://img.shields.io/badge/Open_to-freelance_%26_partnerships-0F766E?style=flat-square">
-<img alt="Profilaufrufe" src="https://komarev.com/ghpvc/?username=MimiRolfes&label=Profile%20views&color=0F766E&style=flat-square">
 
 <img align="left" width="130" alt="Pixel-Art-Figur: ich in Hoodie, Helm und Handschuhen" src="assets/figur.png">
 
