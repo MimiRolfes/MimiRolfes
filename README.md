@@ -1,6 +1,6 @@
 <img align="left" width="150" alt="Pixel-Art-Porträt: mein Helm" src="assets/pixel-mimi.png">
 
-# Hi 👋, I'm Mimi
+### Hi 👋, I'm Mimi
 
 **Frontend &amp; product developer** — I build web apps and the interfaces that make them worth using
 
