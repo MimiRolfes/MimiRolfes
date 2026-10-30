@@ -109,7 +109,45 @@ Angular application with a component-based architecture, responsive layout, mobi
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📚 Tinder for Books
+**Interactive concept**
+
+Swipe and matching mechanics applied to book discovery — a study in interaction design and frontend state handling.
+
+`JavaScript` `Interaction design`
+
+<a href="https://github.com/MimiRolfes/TinderForBooks">→ Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 📂 More
+**Everything else**
+
+Smaller experiments, university work and things still in progress live in my repositories.
+
+<a href="https://github.com/MimiRolfes?tab=repositories">→ All repositories</a><br>
+<a href="https://milenarolfes.framer.website">→ Portfolio</a>
+
+</td>
+</tr>
 </table>
+
+---
+
+<div align="center">
+
+### Education
+
+**B.Sc. Computational Engineering** · FAU Erlangen-Nürnberg
+
+Simulation, numerical methods, computer graphics and algorithms —<br>
+the engineering half of how I build software, alongside the design half.
+
+</div>
 
 ---
 
