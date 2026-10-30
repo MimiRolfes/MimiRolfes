@@ -1,6 +1,6 @@
-<img align="left" width="150" alt="Pixel-Art-Porträt: mein Helm" src="assets/pixel-mimi.png">
+<img alt="Pixel-Art-Szene: ich bei Sonnenuntergang auf meiner Maschine" src="assets/banner.png" width="100%">
 
-### Hi 👋, I'm Mimi
+# Hi 👋, I'm Mimi
 
 **Frontend &amp; product developer** — I build web apps and the interfaces that make them worth using
 
@@ -9,12 +9,15 @@
 <img alt="Verfügbar für Projekte" src="https://img.shields.io/badge/Open_to-freelance_%26_partnerships-0F766E?style=flat-square">
 <img alt="Profilaufrufe" src="https://komarev.com/ghpvc/?username=MimiRolfes&label=Profile%20views&color=0F766E&style=flat-square">
 
-<br clear="left">
+<img align="left" width="130" alt="Pixel-Art-Figur: ich in Hoodie, Helm und Handschuhen" src="assets/figur.png">
 
 - 🔭 I'm currently building **humatter Leads** — an offline-capable lead-capture PWA for trade fairs
+- 🧪 I'm digging into **computer graphics and simulation** at FAU Erlangen
 - 🤝 I'm open to **freelance work and project partnerships**
 - 🌍 I work in **German and English**
 - 📫 How to reach me: **milena.rolfes@web.de**
+
+<br clear="left">
 
 ---
 
