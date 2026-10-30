@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="Pixel-Art-Porträt: ich auf meiner Maschine" src="assets/pixel-mimi.png" width="300">
+
 # Hi 👋, I'm Mimi
 
 ### Frontend &amp; product developer — I build web apps and the interfaces that make them worth using
