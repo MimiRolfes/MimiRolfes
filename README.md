@@ -1,17 +1,26 @@
 <div align="center">
 
-<img alt="Pixel-Art-Porträt: ich auf meiner Maschine" src="assets/pixel-mimi.png" width="300">
+<table align="center">
+<tr>
+<td width="180" align="center" valign="middle">
+
+<img alt="Pixel-Art-Porträt: mein Helm" src="assets/pixel-mimi.png" width="150">
+
+</td>
+<td valign="middle">
 
 # Hi 👋, I'm Mimi
 
-### Frontend &amp; product developer — I build web apps and the interfaces that make them worth using
+**Frontend &amp; product developer** — I build web apps and the interfaces that make them worth using
 
-<p>
-<img alt="Profilaufrufe" src="https://komarev.com/ghpvc/?username=MimiRolfes&label=Profile%20views&color=0F766E&style=flat-square">
-<img alt="Verfügbar für Projekte" src="https://img.shields.io/badge/Open_to-freelance_%26_partnerships-0F766E?style=flat-square">
 <a href="https://milenarolfes.framer.website"><img alt="Portfolio ansehen" src="https://img.shields.io/badge/Portfolio-1F2937?style=flat-square&logo=framer&logoColor=white"></a>
 <a href="mailto:milena.rolfes@web.de"><img alt="E-Mail schreiben" src="https://img.shields.io/badge/E--Mail-1F2937?style=flat-square&logo=maildotru&logoColor=white"></a>
-</p>
+<img alt="Verfügbar für Projekte" src="https://img.shields.io/badge/Open_to-freelance_%26_partnerships-0F766E?style=flat-square">
+<img alt="Profilaufrufe" src="https://komarev.com/ghpvc/?username=MimiRolfes&label=Profile%20views&color=0F766E&style=flat-square">
+
+</td>
+</tr>
+</table>
 
 </div>
 
