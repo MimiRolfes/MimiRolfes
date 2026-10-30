@@ -41,7 +41,7 @@ Including the parts nobody demos: versioned migrations, validation at the bounda
 
 #### 🪄 Framer websites
 
-Finished Framer sites, handed over ready to use — including one for an architecture company.
+Finished Framer sites, handed over ready to use.
 
 You get a site you can edit yourself afterwards, not a dependency on whoever built it.
 
