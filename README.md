@@ -1,13 +1,4 @@
-<div align="center">
-
-<table align="center">
-<tr>
-<td width="180" align="center" valign="middle">
-
-<img alt="Pixel-Art-Porträt: mein Helm" src="assets/pixel-mimi.png" width="150">
-
-</td>
-<td valign="middle">
+<img align="left" width="150" alt="Pixel-Art-Porträt: mein Helm" src="assets/pixel-mimi.png">
 
 # Hi 👋, I'm Mimi
 
@@ -18,11 +9,7 @@
 <img alt="Verfügbar für Projekte" src="https://img.shields.io/badge/Open_to-freelance_%26_partnerships-0F766E?style=flat-square">
 <img alt="Profilaufrufe" src="https://komarev.com/ghpvc/?username=MimiRolfes&label=Profile%20views&color=0F766E&style=flat-square">
 
-</td>
-</tr>
-</table>
-
-</div>
+<br clear="left">
 
 - 🔭 I'm currently building **humatter Leads** — an offline-capable lead-capture PWA for trade fairs
 - 🤝 I'm open to **freelance work and project partnerships**
