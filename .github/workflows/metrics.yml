@@ -1,0 +1,29 @@
+name: Metrics
+
+# Rendert die Sprachen-Karte als SVG nach dist/ und committet sie.
+# Braucht das Secret METRICS_TOKEN (classic PAT, nur Scope public_repo).
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: dist/metrics.svg
+          template: classic
+          config_timezone: Europe/Berlin
+          # Kopfbereich (Follower, Sterne) bewusst aus: die Zahlen sind noch klein.
+          # Zum Einschalten: base: header
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
