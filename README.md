@@ -15,6 +15,7 @@
 - 🤝 I'm open to **freelance work and project partnerships**
 - 🌍 I work in **German, English and Spanish**, with Spanish as a native language
 - 📫 How to reach me: **milena.rolfes@web.de**
+- ⚡ Fun fact: the motorcycle up there is called **Nacho**
 
 <br clear="left">
 
