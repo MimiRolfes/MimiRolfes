@@ -13,7 +13,7 @@
 - 🔭 I'm currently building **humatter Leads** — an offline-capable lead-capture PWA for trade fairs
 - 🧪 I'm digging into **computer graphics and simulation** at FAU Erlangen
 - 🤝 I'm open to **freelance work and project partnerships**
-- 🌍 I work in **German and English**, and I speak **Spanish**
+- 🌍 I work in **German, English and Spanish**, with Spanish as a native language
 - 📫 How to reach me: **milena.rolfes@web.de**
 
 <br clear="left">
