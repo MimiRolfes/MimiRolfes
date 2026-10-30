@@ -13,19 +13,56 @@
 
 </div>
 
----
-
 - 🔭 I'm currently building **humatter Leads** — an offline-capable lead-capture PWA for trade fairs
-- 🎨 I work **from Figma to production**: component states, responsive behaviour, motion, accessibility
-- 💬 Ask me about **Angular, TypeScript, Next.js, PWAs, offline sync** and **Figma-to-code**
-- 🧪 I'm currently digging into **computer graphics and simulation** at FAU Erlangen
-- 🤝 I'm open to **freelance frontend work and project partnerships**
+- 🤝 I'm open to **freelance work and project partnerships**
 - 🌍 I work in **German and English**
 - 📫 How to reach me: **milena.rolfes@web.de**
 
+---
+
 <div align="center">
 
-### Languages and tools
+## What I can do
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧩 Web applications
+
+Full-stack, TypeScript throughout. Authentication, roles, schema, API, offline behaviour, deployment.
+
+Including the parts nobody demos: versioned migrations, validation at the boundaries, and data handling that survives a privacy review.
+
+</td>
+<td width="33%" valign="top">
+
+### 🪄 Framer websites
+
+Finished Framer sites, handed over ready to use — including one for an architecture company.
+
+You get a site you can edit yourself afterwards, not a dependency on whoever built it.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎯 Design to code
+
+Figma as the source of truth, implemented faithfully.
+
+Component states, responsive behaviour, motion, and accessibility treated as part of the build rather than a later fix.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## What I use
 
 <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg">&nbsp;&nbsp;
 <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
@@ -42,9 +79,8 @@
 <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-original.svg">&nbsp;&nbsp;
 <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/php/php-original.svg">&nbsp;&nbsp;
 <img alt="WordPress" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/wordpress/wordpress-plain.svg">&nbsp;&nbsp;
-<img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg">&nbsp;&nbsp;
 <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg">&nbsp;&nbsp;
-<img alt="Swift" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/swift/swift-original.svg">&nbsp;&nbsp;
+<img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg">&nbsp;&nbsp;
 <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/c/c-original.svg">
 <br><br>
 <img alt="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/figma/figma-original.svg">&nbsp;&nbsp;
@@ -52,13 +88,58 @@
 <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/git/git-original.svg">&nbsp;&nbsp;
 <img alt="Vitest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/vitest/vitest-original.svg">
 
+<sub>Frontend · Backend and languages · Design and tooling</sub>
+
 </div>
 
 ---
 
 <div align="center">
 
-### What I'm building
+## How I work
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Design is the reference
+
+If a design exists, it decides. I measure against it instead of approximating it — and I ask for the file rather than inventing layout.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Security belongs on the server
+
+Permissions and validation are enforced server-side. An interface that merely hides a button has not protected anything.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 No privacy theatre
+
+I build privacy-conscious systems and name plainly what still needs legal or security review. Nothing I hand over is "certified".
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Tested where it matters
+
+Permissions, sync logic and anything irreversible get tests. A one-line helper does not.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Selected work
 
 </div>
 
@@ -90,16 +171,6 @@ WordPress theme for the FORnano Satellites project, built so the team publishes 
 <tr>
 <td width="50%" valign="top">
 
-#### 🏛️ Architecture practice
-**Portfolio site**
-
-Framer site for a practice whose work is primarily visual — layout, typography and motion carrying the portfolio, editable by the client afterwards.
-
-`Framer` `Design systems`
-
-</td>
-<td width="50%" valign="top">
-
 #### ⏱️ TIMORA
 **Time tracking**
 
@@ -108,8 +179,6 @@ Angular application with a component-based architecture, responsive layout, mobi
 `Angular` `TypeScript` `SCSS`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 📚 Tinder for Books
@@ -122,17 +191,6 @@ Swipe and matching mechanics applied to book discovery — a study in interactio
 <a href="https://github.com/MimiRolfes/TinderForBooks">→ Repository</a>
 
 </td>
-<td width="50%" valign="top">
-
-#### 📂 More
-**Everything else**
-
-Smaller experiments, university work and things still in progress live in my repositories.
-
-<a href="https://github.com/MimiRolfes?tab=repositories">→ All repositories</a><br>
-<a href="https://milenarolfes.framer.website">→ Portfolio</a>
-
-</td>
 </tr>
 </table>
 
@@ -140,12 +198,12 @@ Smaller experiments, university work and things still in progress live in my rep
 
 <div align="center">
 
-### Education
+## Education
 
 **B.Sc. Computational Engineering** · FAU Erlangen-Nürnberg
 
 Simulation, numerical methods, computer graphics and algorithms —<br>
-the engineering half of how I build software, alongside the design half.
+the engineering half of how I build software.
 
 </div>
 
@@ -153,9 +211,9 @@ the engineering half of how I build software, alongside the design half.
 
 <div align="center">
 
-### GitHub
+## GitHub
 
-<img alt="Meine GitHub-Statistik: Sprachen, Aktivität und Repositories" src="dist/metrics.svg" width="100%">
+<img alt="Meine meistgenutzten Sprachen auf GitHub" src="dist/metrics.svg">
 
 <br>
 
@@ -170,7 +228,7 @@ the engineering half of how I build software, alongside the design half.
 
 <div align="center">
 
-### Let's work together
+## Let's work together
 
 Open to freelance frontend work and project partnerships —<br>
 especially where design quality and solid engineering both matter.
