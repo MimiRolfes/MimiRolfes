@@ -29,7 +29,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🧩 Web applications
 
@@ -38,7 +38,18 @@ Full-stack, TypeScript throughout. Authentication, roles, schema, API, offline b
 Including the parts nobody demos: versioned migrations, validation at the boundaries, and data handling that survives a privacy review.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+#### 🧱 Custom WordPress themes
+
+Themes written as code, not clicked together in a page builder — built from your design, with the content structures your editors actually need.
+
+You keep WordPress for publishing; the theme stays a repository you own, versioned and reviewable.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 #### 🪄 Framer websites
 
@@ -47,7 +58,7 @@ Finished Framer sites, handed over ready to use.
 You get a site you can edit yourself afterwards, not a dependency on whoever built it.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### 🎯 Design to code
 
